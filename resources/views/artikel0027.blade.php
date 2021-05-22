@@ -13,12 +13,22 @@
     Framework dapat dikatakan sebagai sekumpulan fungsi class dan aturan yang bersifat menyeluruh yang dapat mengatur bagaimana kita membangun
     aplikasi atau sebuah website. Dengan framework kita dapat membangun sebuah aplikasi atau website dengan cepat.
     </p>
-    <p>Kelebihan dalam mengembangkan aplikasi dengan menggunakan framework yaitu:
-    </p>
+    <h4>Kelebihan dalam mengembangkan aplikasi dengan menggunakan framework yaitu:
+    </h4>
     <ol>
         <li>Akan lebih mempermudah dalam memahami mekanisme kerja sebuah aplikasi. Hal tersebut tentunya akan membantu proses pengembangan yang dilakukan secara tim.</li>
         <li>Dengan memakai framework akan menghemat waktu pengerjaan suatu aplikasi, 
         karena setiap anggota sudah memiliki sebuah acuan dalam menyelesaikan modul. Dalam hal ini misalnya semakin banyak library yang ada maka akan semakin cepat anggota tim dalam menemukan solusi pkarena tidak setiap anggota harus membuat class atau fungsi untuk kasus yang relatif sama.</li>
+    </ol>
+    <p>Berikut adalah beberapa framework PHP yang sering digunakan oleh programmer website saat ini
+    </p>
+    <ol>
+        <li>Zend Framework adalah framework open source dan berkualitas tinggi untuk membangun aplikasi web dan web service dengan PHP”
+        </li>
+        <li>Yii adalah kerangka kerja PHP berbasis-komponen dengan performansi tinggi untuk pengembangan aplikasi web berskala-besar. Ia menyediakan resuabilitas maksimum dalam pemrograman web dan bisa mengakselerasi proses pengembangan secara signifikan kelebihan Yii melampaui framework PHP lain dalam hal efisiensi, kaya-fitur, dan didokumentasikan dengan jelas. Yii didesain dengan hati-hati dari awal agar sesuai untuk pengembangan aplikasi web secara serius.
+        </li>
+        <li>CodeIgniter adalah sebuah framework aplikasi untuk membuat halaman atau aplikasi web berbasis PHP. Selain mudah digunakan, Code Igniter juga sangat cepat dan ringan. Dokumentasinya yang lengkap membuat framework ini mudah untuk dipelajari oleh pemula.
+        </li>
     </ol>
     <p>Untuk lebih memahaminya, Anda dapat
     membaca cerita berikut.
