@@ -19,4 +19,5 @@ Route::get('/', function () {
 });
 
 Route::get('/home', [HomeController::class, 'index']);
-
+Route::get('/artikel0027', [HomeController::class, 'artikel']);
+Route::get('/contactus0027', [HomeController::class, 'cp']);
