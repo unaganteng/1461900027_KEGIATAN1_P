@@ -10,6 +10,6 @@
 <body>
     <p>Hallo Sodara</p>
     <p>Hallo Dulur</p>
-    <p>Mantab Dulur</p> 
+    <p>Mantab Dulur</p>
 </body>
 </html>
